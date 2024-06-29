@@ -6,19 +6,20 @@ function Footer() {
     <div>
       <div className="bg-gray-100 border-t ">
         <div className=" container mx-auto px-36 p-24">
-          <div className="flex justify-between">
+          <div className="flex justify-between gap-12 md:px-16 lg:px-">
             <div className="w-1/2">
               <div className="flex flex-col space-y-5">
                 <p className="font-semibold text-lg">Address</p>
                 <div className=" flex gap-3">
                   <PlaceIcon />
-                  Hello there{" "}
+                  Hello there Lorem ipsum dolor sit amet consectetur adipisicing
+                  elit. Numquam, distinctio!
                 </div>
                 <div className=" flex gap-3">
                   <LocalPhoneIcon />
-                  Hello there{" "}
+                  +91 984095222{" "}
                 </div>
-                <div>links</div>
+                <div className=" flex "></div>
               </div>
             </div>
             <div className=" w-1/2">

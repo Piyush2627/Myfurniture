@@ -84,14 +84,14 @@ function Home() {
         </div>
       </div>
       {/* section 3 */}
-      <div className=" container m-auto px-36 py-8 text-center lg:18 mt-36">
+      <div className=" container m-auto py-8 text-center lg:18 mt-36">
         <UpAnimation delay={0}>
           <p className=" font-semibold uppercase text-5xl">
             Most Selling Products
           </p>
         </UpAnimation>
       </div>
-      <div className="container mx-auto px-36 flex flex-col md:flex-row justify-center space-x-6">
+      <div className="container mx-auto flex flex-col md:flex-row justify-center space-x-6">
         <div className="  * rounded flex flex-col justify-center">
           <img
             src={BookRack}
@@ -140,9 +140,9 @@ function Home() {
       <div className=" container mx-auto flex justify-center mt-36">
         <img src={SofawithRack} alt="" />
       </div>
-      <div className=" container text-center mx-auto px-36 mt-24">
-        <p className="text-6xl my-8 font-semibold">Heading</p>
-        <p className="text-2xl">
+      <div className=" container text-center mx-auto mt-24">
+        <p className="text-4xl my-8 font-semibold md:text-6xl">Heading</p>
+        <p className="text-base md:text-2xl px-16">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
           vero aliquam hic sed, similique atque, delectus porro quae nulla saepe
           ab consequatur consectetur error dolorum a ipsa, nihil harum ut nam
