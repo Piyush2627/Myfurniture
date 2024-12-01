@@ -38,7 +38,7 @@ function Navigation() {
             <div className=" flex justify-between align-middle items-center">
               {" "}
               <div className="lg:font-semibold lg:text-2xl font-medium text-xl">
-                Branding
+                Brand logo
               </div>
               <div className="flex gap-5">
                 <div className="  items-center lg:gap-4 flex ">

@@ -4,7 +4,7 @@ import SofaChair from "../../assets/images/SofaChair.png";
 import BookRack from "../../assets/images/BookRack.png";
 import YelllowSofa from "../../assets/images/YellowSofa.png";
 import SofawithRack from "../../assets/images/pngwing.com (5).png";
-import Greem from "../../assets/images/GREEM.png";
+import green from "../../assets/images/GREEM.png";
 import UpAnimation from "../animation/UpAnimation";
 import SideAnimation from "../animation/SideAnimation";
 function Home() {
@@ -29,7 +29,6 @@ function Home() {
             <UpAnimation delay={0.4}>
               <div className="lg:w-96 text-center md:text-left ">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Delectus, odit.
               </div>
             </UpAnimation>
             <UpAnimation delay={0.5}>
@@ -99,7 +98,7 @@ function Home() {
             alt=""
           />
           <div className=" text-center  ">
-            <p className="font-bold text-xl">Pracing</p>
+            <p className="font-bold text-xl">Pricing </p>
             <p>₹ 200 -/</p>
           </div>
         </div>
@@ -110,7 +109,7 @@ function Home() {
             alt=""
           />
           <div className=" text-center ">
-            <p className="font-bold text-xl">Pracing</p>
+            <p className="font-bold text-xl">Pricing </p>
             <p>₹ 200 -/</p>
           </div>
         </div>
@@ -121,7 +120,7 @@ function Home() {
             alt=""
           />
           <div className=" text-center ">
-            <p className="font-bold text-xl">Pracing</p>
+            <p className="font-bold text-xl">Pricing </p>
             <p>₹ 200 -/</p>
           </div>
         </div>
@@ -132,7 +131,7 @@ function Home() {
             alt=""
           />
           <div className=" text-center ">
-            <p className="font-bold text-xl">Pracing</p>
+            <p className="font-bold text-xl">Pricing </p>
             <p>₹ 200 -/</p>
           </div>
         </div>
@@ -143,15 +142,12 @@ function Home() {
       <div className=" container text-center mx-auto mt-24">
         <p className="text-4xl my-8 font-semibold md:text-6xl">Heading</p>
         <p className="text-base md:text-2xl px-16">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
-          vero aliquam hic sed, similique atque, delectus porro quae nulla saepe
-          ab consequatur consectetur error dolorum a ipsa, nihil harum ut nam
-          sint consequuntur. Non, iste saepe. Accusantium vel minima aperiam.
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit.
         </p>
       </div>
       <div>
         <div className="container mx-auto">
-          <img src={Greem} className=" object-center" alt="" />
+          <img src={green} className=" object-center" alt="" />
         </div>
       </div>
     </div>
